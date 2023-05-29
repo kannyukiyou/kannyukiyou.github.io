@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate 
-title: 
-description：
+title:  
+description: 
 plugins: 
     - jemoji 
 url: "https://kannyukiyou.github.io/" 
