@@ -1,1 +1,9 @@
+Voila:
 
+theme: jekyll-theme-slate 
+title: 
+description]]：
+plugins: 
+    - jemoji 
+url: "kannyukiyou.github.io" 
+markdown: kramdown
