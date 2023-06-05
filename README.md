@@ -32,3 +32,5 @@ Bearing capacity: Compared with the same type of mountaineering cable car, the t
 High accessibility: From the perspective of space and time, the cable car is located at Mount Moiwa, which is located in Sapporo City. It takes 30 minutes to reach the foot of the mountain by tram from Nakajima Park, and 18 minutes by bicycle. Whether it is a subway, bus, or private car, it is very convenient. From the consumption point of view, the round-trip ticket price of 2100 yen is also within the reasonable range of ordinary tourists．
 
 **Conclusion**
+
+test
