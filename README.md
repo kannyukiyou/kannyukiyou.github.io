@@ -30,3 +30,5 @@ Scarcity: Its uniqueness is first reflected in Japan, including the above-mentio
 Status: For Sapporo locals, it is mostly the main TA in sightseeing activities, and it may be a secondary or third choice for overseas tourists.
 Bearing capacity: Compared with the same type of mountaineering cable car, the tourist carrying capacity of the cable car is at a medium level. The running time is 12 hours, and the number of passengers carried by the cable car is 30, which is the same as that of the Tengu Mountain Cable Car in Otaru, but far lower than the 125-passenger passenger capacity of the Hakodate Mountain Cable Car, one of the “Three Great Night Views of Hokkaido”.
 High accessibility: From the perspective of space and time, the cable car is located at Mount Moiwa, which is located in Sapporo City. It takes 30 minutes to reach the foot of the mountain by tram from Nakajima Park, and 18 minutes by bicycle. Whether it is a subway, bus, or private car, it is very convenient. From the consumption point of view, the round-trip ticket price of 2100 yen is also within the reasonable range of ordinary tourists．
+
+**Conclusion**
